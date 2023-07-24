@@ -12,7 +12,7 @@ Copy the `/coverart` directory to your web host. Either modify the index file to
 
 ## Usage
 
-Complete the fields "Artist", "Title" and "Note", then click the "Generate Cover" button to create a basic cover in the default style.
+Complete the fields "Artist", "Title" and "Note", then click the "Generate Cover" button to create a basic cover in the default style. Use your favorite screenshot app to capture a copy of the rendered HTML+CSS artwork.
 
 ## Styling
 
